@@ -1,0 +1,12 @@
+[submodule "libs/file-lock"]
+	path = libs/file-lock
+	url = github.com:jowillianto/file-lock
+[submodule "libs/logging"]
+	path = libs/logging
+	url = github.com:jowillianto/logging
+[submodule "libs/test-lib"]
+	path = libs/test-lib
+	url = github.com:jowillianto/test-lib
+[submodule "libs/thread-plus"]
+	path = libs/thread-plus
+	url = github.com:jowillianto/thread-plus
